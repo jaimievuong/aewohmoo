@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheetahguc.itwalton.dev/sitemap.xml
